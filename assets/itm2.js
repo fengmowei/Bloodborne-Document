@@ -36,7 +36,7 @@ window.onload=function(){
   xmlhttp.open("get","text/eng"+"/"+[type]+"_desc.xml",false);
   xmlhttp.send(null);
   xmlDoc=xmlhttp.responseXML;
-  vardesce=xmlDoc.getElementsByTagName("text");
+  var desce=xmlDoc.getElementsByTagName("text");
   xmlhttp.open("get","text/chno"+"/"+[type]+"_name.xml",false);
   xmlhttp.send(null);
   xmlDoc=xmlhttp.responseXML;
