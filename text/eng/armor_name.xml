@@ -1,33 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
 <entries>
 
-<text>Bloody Wolf Helm</text>
-<text>Bloody Wolf Armor</text>
-<text>Bloody Wolf Gauntlets</text>
-<text>Bloody Wolf Greaves</text>
-<text>Carian Knight Helm</text>
-<text>Carian Knight Armor</text>
-<text>Carian Knight Gauntlets</text>
-<text>Carian Knight Greaves</text>
-<text>Champion Headband</text>
-<text>Champion Pauldron</text>
-<text>Champion Gauntlets</text>
-<text>Badland Gaiters</text>
-<text>Crucible Axe Helm</text>
-<text>Crucible Axe Armor</text>
-<text>Crucible Gauntlets</text>
-<text>Crucible Greaves</text>
-<text>Prophet Blindfold</text>
-<text>Prophet Robe</text>
-<text>Prophet Trousers</text>
-<text>Karolos Mask</text>
-<text>Raya Lucarian Robe</text>
-<text>Sorcerer Manchettes</text>
-<text>Sorcerer Leggings</text>
-<text>Blue Cloth Cowl</text>
-<text>Blue Cloth Vest</text>
-<text>Swordsman Gauntlets</text>
-<text>Swordsman Greaves</text>
-<text>Pumpkin Helm</text>
+<text>Gray Wolf Cap</text>
+<text>Charred Hunter Garb</text>
+<text>Charred Hunter Gloves</text>
+<text>Charred Hunter Trousers</text>
+<text>Black Hooded Iron Helm</text>
+<text>Yahar'gul Black Garb</text>
+<text>Yahar'gul Black Gloves</text>
+<text>Yahar'gul Black Trousers</text>
+<text>Graveguard Mask</text>
+<text>Graveguard Robe</text>
+<text>Graveguard Manchettes</text>
+<text>Graveguard Kilt</text>
+<text>Bone Ash Mask</text>
+<text>Bone Ash Armor</text>
+<text>Bone Ash Gauntlets</text>
+<text>Bone Ash Leggings</text>
+<text>Henryk's Hunter Cap</text>
+<text>Henryk's Hunter Garb</text>
+<text>Henryk's Hunter Gloves</text>
+<text>Henryk's Hunter Trousers</text>
+<text>Yharnam Hunter Cap</text>
+<text>Yharnam Hunter Garb</text>
+<text>Yharnam Hunter Gloves</text>
+<text>Yharnam Hunter Trousers</text>
+<text>Hunter Hat</text>
+<text>Hunter Garb</text>
+<text>Hunter Gloves</text>
+<text>Hunter Trousers</text>
+<text>Knight's Wig</text>
+<text>Knight's Garb</text>
+<text>Knight's Gloves</text>
+<text>Knight's Trousers/Dress</text>
+<text>Cainhurst Helmet</text>
+<text>Cainhurst Armor</text>
+<text>Cainhurst Gauntlets</text>
+<text>Cainhurst Leggings</text>
+<text>Black Church Hat</text>
+<text>Black Church Garb</text>
+<text>Surgical Long Gloves</text>
+<text>Black Church Trousers/Dress</text>
+<text>Blindfold Cap</text>
+<text>Choir Garb</text>
+<text>Choir Gloves</text>
+<text>Choir Trousers</text>
+<text>Gascoigne's Cap</text>
+<text>Gascoigne's Garb</text>
+<text>Gascoigne's Gloves</text>
+<text>Gascoigne's Trousers</text>
+<text>Tomb Prospector Hood</text>
+<text>Tomb Prospector Garb</text>
+<text>Tomb Prospector Gloves</text>
+<text>Tomb Prospector Trousers</text>
+<text>Gold Ardeo</text>
+<text>Executioner Garb</text>
+<text>Executioner Gauntlets</text>
+<text>Executioner Trousers</text>
+<text>Beak Mask</text>
+<text>Crowfeather Garb</text>
+<text>Crowfeather Manchettes</text>
+<text>Crowfeather Trousers</text>
+<text>Mensis Cage</text>
+<text>Student Uniform</text>
+<text>Student Trousers</text>
+<text>Gehrman's Hunter Cap</text>
+<text>Gehrman's Hunter Garb</text>
+<text>Gehrman's Hunter Trousers</text>
+<text>Madman Hood</text>
+<text>Madman Garb</text>
+<text>Madman Manchettes</text>
+<text>Madman Leggings</text>
+<text>Doll Hat</text>
+<text>Doll Clothes</text>
+<text>Doll Gloves</text>
+<text>Doll Skirt</text>
+<text>Black Hood</text>
+<text>Foreign Garb</text>
+<text>Sullied Bandage</text>
+<text>Foreign Trousers</text>
+<text>Ashen Hunter Garb</text>
+<text>Ashen Hunter Gloves</text>
+<text>Ashen Hunter Trousers</text>
+<text>Crown of Illusions</text>
+<text>Master's Iron Helm</text>
+<text>Iron Yahar'gul Helm</text>
+<text>Top Hat</text>
+<text>Hunter Garb</text>
+<text>White Church Hat</text>
+<text>White Church Garb</text>
+<text>White Church Trousers/Dress</text>
+<text>Student Uniform</text>
+<text>Noble Dress</text>
+<text>Arianna's Shoes</text>
+<text>Rumpled Yharnam Hat</text>
+<text>Sweaty Clothes</text>
+<text>Butcher Mask</text>
+<text>Butcher Garb</text>
+<text>Butcher Gloves</text>
+<text>Butcher Trousers</text>
+<text>Harrowed Hood</text>
+<text>Harrowed Garb</text>
+<text>Harrowed Gloves</text>
+<text>Harrowed Trousers</text>
+<text>Old Hunter Cap</text>
+<text>Old Hunter Garb</text>
+<text>Old Hunter Gloves</text>
+<text>Old Hunter Trousers</text>
+<text>Old Hunter Top Hat</text>
+<text>Decorative Old Hunter Garb</text>
+<text>Decorative Old Hunter Trousers</text>
+<text>Maria Hunter Cap</text>
+<text>Maria Hunter Garb</text>
+<text>Maria Hunter Gloves</text>
+<text>Maria Hunter Trousers</text>
+<text>One-eyed Iron Helm</text>
+<text>Constable's Garb</text>
+<text>Constable's Gloves</text>
+<text>Constable's Trousers</text>
+<text>Brador's Testimony</text>
+<text>Beast Hide Garb</text>
+<text>Bloodied Arm Bands</text>
+<text>Bloodied Trousers</text>
+<text>Yamamura Hunter Hat</text>
+<text>Khaki Haori</text>
+<text>Old Hunter Arm Bands</text>
+<text>Wine Hakama</text>
+<text>Enlarged Head</text>
 
 </entries>

@@ -1,96 +1,193 @@
 <?xml version="1.0" encoding="utf-8"?>
 <entries>
 
-<text>Crafting Kit</text>
-<text>Map (Limgrave, West)</text>
-<text>Rusty Key</text>
-<text>Telescope</text>
-<text>Spectral Steed Whistle</text>
-<text>Arrow</text>
-<text>Blue Cipher Ring</text>
-<text>White Cipher Ring</text>
-<text>Furlcalling Finger Remedy</text>
-<text>Finger Severer</text>
-<text>Tarnished's Furled Finger</text>
-<text>Duelist's Furled Finger</text>
-<text>Tarnished's Wizened Finger</text>
-<text>Bloody Finger</text>
-<text>Taunter's Tongue</text>
-<text>Vision of Grace</text>
-<text>Small Golden Effigy</text>
-<text>Small Red Effigy</text>
-<text>Flask of Crimson Tears</text>
-<text>Flask of Cerulean Tears</text>
-<text>Fringefolk's Rune</text>
-<text>Holy Water Pot</text>
-<text>Scriptstone</text>
-<text>Rainbow Stone</text>
-<text>Rowa Raisin</text>
-<text>Roped Fire Pot</text>
-<text>Glowstone</text>
-<text>Flask of Wondrous Physick</text>
-<text>Pauper's Rune</text>
-<text>CURED IMMUNIZING MEAT</text>
-<text>Heavy Meteorite Fragment</text>
-<text>Pickled Turtle Neck</text>
-<text>Fire Grease</text>
-<text>Fireproof Dried Liver</text>
-<text>Fire Pot</text>
-<text>Bone Knife</text>
-<text>Staunching Boluses</text>
-<text>Gold-Pickled Fowl Foot</text>
-<text>Neutralizing Boluses</text>
-<text>Exalted Flesh</text>
-<text>Sleep Pot</text>
-<text>Dragon Heart</text>
-<text>Throwing Dagger</text>
-<text>Ruin Fragment</text>
-<text>Smithing Stone Shard</text>
-<text>Armorer's Cookbook</text>
-<text>Fevor's Cookbook</text>
-<text>Missionary's Cookbook</text>
-<text>Deserter's Cookbook</text>
-<text>Root Resin</text>
-<text>Bloodrose</text>
-<text>Arteria Leaf</text>
-<text>Sliver of Meat</text>
-<text>Beast Liver</text>
-<text>Lump of Flesh</text>
-<text>Smouldering Butterfly</text>
-<text>Poisonbloom</text>
-<text>Cave Moss</text>
-<text>Silver Firefly</text>
-<text>Turtle Neck Meat</text>
-<text>Land Octopus Ovary</text>
-<text>Strip of White Flesh</text>
-<text>Mushroom</text>
-<text>Gold-Tinged Excrement</text>
-<text>Tarnished Blossom</text>
-<text>Fulgurbloom</text>
-<text>Crab Eggs</text>
-<text>Great Dragonfly Head</text>
-<text>Herba</text>
-<text>Moon Egg</text>
-<text>Trina's Lily</text>
-<text>Rowa Fruit</text>
-<text>Thin Animal Bones</text>
-<text>Four-Toed Fowl Foot</text>
-<text>Flight Pinion</text>
-<text>String</text>
-<text>Cracked Pot</text>
-<text>Glintstone Scrap</text>
-<text>Erdleaf Flower</text>
-<text>Ruptured Crystal Tear</text>
-<text>GREENSPILL CRYSTAL TEAR</text>
-<text>CRIMSON CRYSTAL TEAR</text>
-<text>Cerulean Crystal Tear</text>
-<text>Firebone Arrow</text>
-<text>Firebone Arrow (Fletched)</text>
-<text>Bone Arrow</text>
-<text>Bone Arrow (Fletched)</text>
-<text>Poisonbone Arrow</text>
-<text>Poisonbone Arrow (Fletched)</text>
-<text>Trina's Arrow</text>
-<text>Sleepbone Arrow (Fletched)</text>
+<text>Hunter's Mark</text>
+<text>Silencing Blank</text>
+<text>Notebook</text>
+<text>Vileblood Register</text>
+<text>League Staff</text>
+<text>Beckoning Bell</text>
+<text>Small Resonant Bell</text>
+<text>Sinister Resonant Bell</text>
+<text>Tiny Music Box</text>
+<text>Blood of Arianna</text>
+<text>Blood of Adella</text>
+<text>Iosefka's Blood Vial</text>
+<text>Blood Dreg</text>
+<text>Queenly Blood</text>
+<text>Blood of Adeline</text>
+<text>Quicksilver Bullets</text>
+<text>Blood Bullets</text>
+<text>Blood Vial</text>
+<text>Antidote</text>
+<text>Sedative</text>
+<text>Beast Blood Pellet</text>
+<text>Blue Elixir</text>
+<text>Molotov Cocktail</text>
+<text>Delayed Molotov</text>
+<text>Poison Knife</text>
+<text>Oil Urn</text>
+<text>Pebble</text>
+<text>Throwing Knife</text>
+<text>Rope Molotov Cocktail</text>
+<text>Delayed Rope Molotov</text>
+<text>Pungent Blood Cocktail</text>
+<text>Numbing Mist</text>
+<text>Fire Paper</text>
+<text>Empty Phantasm Shell</text>
+<text>Bolt Paper</text>
+<text>Bone Marrow Ash</text>
+<text>Bold Hunter's Mark</text>
+<text>Shining Coins</text>
+<text>Monocular</text>
+<text>Hand Lantern</text>
+<text>Madman's Knowledge</text>
+<text>Great One's Wisdom</text>
+<text>Coldblood Dew (1)</text>
+<text>Thick Coldblood (4)</text>
+<text>Frenzied Coldblood (7)</text>
+<text>Kin Coldblood (10)</text>
+<text>Great One Coldblood</text>
+<text>Old Great One Coldblood</text>
+<text>Revered Great One Coldblood</text>
+<text>Caryll Rune: "Clockwise Metamorphosis"</text>
+<text>Caryll Rune: "Anti-Clockwise Metamorphosis"</text>
+<text>Caryll Rune: "Communion"</text>
+<text>Caryll Rune: "Oedon Liaison"</text>
+<text>Caryll Rune: "Lake"</text>
+<text>Caryll Rune: "Deep Sea"</text>
+<text>Caryll Rune: "Destroyer"</text>
+<text>Caryll Rune: "Reveler"</text>
+<text>Caryll Rune: "Liaison"</text>
+<text>Caryll Rune: "Heir"</text>
+<text>Caryll Rune: "Beast"</text>
+<text>Caryll Rune: "Moon"</text>
+<text>Caryll Rune: "Eye"</text>
+<text>Vermin</text>
+<text>Augur of Ebrietas</text>
+<text>A Call Beyond</text>
+<text>Beast Roar</text>
+<text>Lead Elixir</text>
+<text>Choir Bell</text>
+<text>Old Hunter Bone</text>
+<text>Tiny Tonitrus</text>
+<text>Executioner's Gloves</text>
+<text>Shaman Bone Blade</text>
+<text>Messenger's Gift</text>
+<text>Blacksky Eye</text>
+<text>Accursed Brew</text>
+<text>Madaras Whistle</text>
+<text>Blood Stone Shard</text>
+<text>Twin Blood Stone Shards</text>
+<text>Blood Stone Chunk</text>
+<text>Blood Rock</text>
+<text>Oedon Tomb Key</text>
+<text>Gold Pendant</text>
+<text>Cainhurst Summons</text>
+<text>Orphanage Key</text>
+<text>Iron Door Key</text>
+<text>Upper Cathedral Key</text>
+<text>Hunter Chief Emblem</text>
+<text>Lecture Theatre Key</text>
+<text>Lunarium Key</text>
+<text>Laurence's Skull</text>
+<text>Underground Cell Inner Chamber Key</text>
+<text>Eye Pendant</text>
+<text>Underground Cell Key</text>
+<text>Balcony Key</text>
+<text>Astral Clocktower Key</text>
+<text>Celestial Dial</text>
+<text>Workshop Haze Extractor</text>
+<text>Blood Gem Workshop Tool</text>
+<text>Rune Workshop Tool</text>
+<text>Short Ritual Root Chalice</text>
+<text>Saw Hunter Badge</text>
+<text>Crow Hunter Badge</text>
+<text>Powder Keg Hunter Badge</text>
+<text>Old Hunter Badge</text>
+<text>Sword Hunter Badge</text>
+<text>Radiant Sword Hunter Badge</text>
+<text>Wheel Hunter Badge</text>
+<text>Cainhurst Badge</text>
+<text>Spark Hunter Badge</text>
+<text>Cosmic Eye Watcher Badge</text>
+<text>Firing Hammer Badge</text>
+<text>Small Hair Ornament</text>
+<text>Tear Stone</text>
+<text>Ring of Betrothal</text>
+<text>Queenly Flesh</text>
+<text>Red Jeweled Brooch</text>
+<text>Unopened Summons</text>
+<text>Tonsil Stone</text>
+<text>Eye of a Blood-drunk Hunter</text>
+<text>Old Hunter Bell</text>
+<text>One Third of Umbilical Cord</text>
+<text>One Third of Umbilical Cord</text>
+<text>One Third of Umbilical Cord</text>
+<text>One Third of Umbilical Cord</text>
+<text>Yharnam Stone</text>
+<text>Brain Fluid</text>
+<text>Brain Fluid</text>
+<text>Brain Fluid</text>
+<text>Yharnam Messenger Hat</text>
+<text>Worn Messenger Top Hat</text>
+<text>Messenger Head Bandage</text>
+<text>White Messenger Ribbon</text>
+<text>Red Messenger Ribbon</text>
+<text>Messenger Top Hat</text>
+<text>Black Messenger Hat</text>
+<text>Bloody Messenger Head Bandage</text>
+<text>Messenger Urn Festival</text>
+<text>Pthumeru Root Chalice</text>
+<text>Pthumeru Chalice</text>
+<text>Central Pthumeru Root Chalice</text>
+<text>Central Pthumeru Chalice</text>
+<text>Hintertomb Root Chalice</text>
+<text>Hintertomb Chalice</text>
+<text>Lower Pthumeru Root Chalice</text>
+<text>Sinister Lower Pthumeru Root Chalice</text>
+<text>Lower Pthumeru Chalice</text>
+<text>Lower Hintertomb Root Chalice</text>
+<text>Sinister Hintertomb Root Chalice</text>
+<text>Lower Hintertomb Chalice</text>
+<text>Cursed and Defiled Root Chalice</text>
+<text>Defiled Chalice</text>
+<text>Ailing Loran Root Chalice</text>
+<text>Ailing Loran Chalice</text>
+<text>Pthumeru Ihyll Root Chalice</text>
+<text>Sinister Pthumeru Ihyll Root Chalice</text>
+<text>Great Pthumeru Ihyll Chalice</text>
+<text>Lower Ailing Loran Root Chalice</text>
+<text>Sinister Lower Loran Root Chalice</text>
+<text>Lower Loran Chalice</text>
+<text>Isz Root Chalice</text>
+<text>Sinister Isz Root Chalice</text>
+<text>Great Isz Chalice</text>
+<text>Ritual Blood (1)</text>
+<text>Ritual Vestige (6)</text>
+<text>Perfect Ritual Vestige</text>
+<text>Coldblood Flowerbud (1)</text>
+<text>Coldblood Flowerbud</text>
+<text>Coldblood Flower Bulb</text>
+<text>Blooming Coldblood Flower</text>
+<text>Coldblood Flower Bulb (6)</text>
+<text>Blooming Coldblood Flower</text>
+<text>Tomb Mold (1)</text>
+<text>Tomb Mold Spore (6)</text>
+<text>Soaring Tomb Mold</text>
+<text>Arcane Haze</text>
+<text>Pearl Slug</text>
+<text>Hidden Incoagulable Blood</text>
+<text>Cursed Incoagulable Blood</text>
+<text>Red Jelly</text>
+<text>Vermiculum (not needed)</text>
+<text>Radiant Eelworm (not needed)</text>
+<text>Sage's Wrist</text>
+<text>Sage's Hair</text>
+<text>Inflicted Organ</text>
+<text>Yellow Backbone</text>
+<text>Bastard of Loran</text>
+<text>Bloodshot Eyeball</text>
+<text>Living String</text>
 
 </entries>
