@@ -16,7 +16,7 @@ hr{border:0;height:150px}
 a.mainitm{color:#960}
 #pagel{width:0;height:2px;background:#960}
 .frame{text-align:center;overflow:hidden;background:#111;padding:3em 2em;margin:1em 0 2em;box-shadow:inset 0 0 .3em .1em #531;font:18px/1.5 仿宋;color:#ccc}
-.icon{float:left;width:10%;height:1px}
+.icon{float:left;width:7%;height:1px;margin-right:1%;}
 .chn,.eng,.jap,.chno,.title{float:left;width:17%;padding:1%}
 .eng{font-family:Palatino Linotype}
 .title{width:88%}
